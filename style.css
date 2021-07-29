@@ -23,6 +23,9 @@ body{
     margin-right: 36px;
     padding: 10px 0;
 }
+.navbar-main{
+    margin-top: 30px;
+}
 .login-button{
     background: #E76F51;
     border-radius: 5px;
