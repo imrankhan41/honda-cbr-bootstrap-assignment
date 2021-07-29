@@ -159,7 +159,26 @@ body{
     box-shadow: none !important;
     border-color: rgba(0,0,0,.125) !important;  
 } 
+/* honda slider */
 
+.honda-slider{
+    margin-bottom: 160px;
+}
+/* ceta-section */
+.bd-bike-tittle{
+    color: red;
+    text-transform: uppercase;
+}
+.bd-bike .container h1{
+    font-size: 3.5rem;
+    color: rgb(7,7,7);
+}
+.bd-bike .card:hover{
+    color:red;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: -3px 3px 23px -12px rgba(0,0,0,0.74);
+}
 /* footer */
 footer{
     background: #0B0D17;
